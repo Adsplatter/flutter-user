@@ -1,6 +1,7 @@
 name: flutter_user
 description: "Adsplatter's user package for Flutter."
 version: 1.0.0
+
 repository: https://github.com/adsplatter/flutter-user
 homepage: https://github.com/adsplatter/flutter-user
 issue_tracker: https://github.com/adsplatter/flutter-user/issues
@@ -19,8 +20,6 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
-  flutter_localizations:
-    sdk: flutter
   flutter:
     sdk: flutter
   shared_preferences: ^2.2.3
