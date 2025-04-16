@@ -23,9 +23,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.2.3
-
-dependency_overrides:
-  intl: 0.17.0-nullsafety.2
+  intl: ^0.17.0
 
 # Dev dependencies are dependencies that are only used in the development of your package.
 dev_dependencies:
